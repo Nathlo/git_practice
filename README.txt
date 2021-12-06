@@ -1,1 +1,1 @@
-Hello Git et Lolo !
+Hello Git et GitHub !
